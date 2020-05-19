@@ -1,5 +1,22 @@
 # InfiniteBossGrind
 
+Version 0.4
+
+UPDATES:
+-Added skills to bosses.
+-Added icon for Heavy Strike skill.
+-Added Mana requirement for skills.
+-Mana bar now represents player and enemy mana.
+-Added option to "flee" to town, currently no consequence.
+-HP is now represented numerically in addition to the health bar.
+-Player is now notified at the end of fight if they level up.
+-Added a round counter.
+
+BUG FIXES:
+-Adjusted Save button's position so it no longer interferes with stat points.
+-Fixed issue where player cannot use skills.
+_________________________________________________________
+
 Version 0.3
 
 UPDATES:
