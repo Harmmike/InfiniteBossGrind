@@ -1,5 +1,11 @@
 # InfiniteBossGrind
 
+Version 0.4.1
+
+BUG FIXES:
+-Fixed a bug where skills were incorrectly dealing damage.
+_______________________________________________________
+
 Version 0.4
 
 UPDATES:
